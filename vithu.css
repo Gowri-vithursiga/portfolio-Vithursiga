@@ -1,6 +1,7 @@
 *{
     margin: 10px;
 
+
 }
 body{
    font-size: smaller;
@@ -8,7 +9,7 @@ body{
 }
 span{
     color:orangered;
-    font-size: large;
+    font-size: larger;
 }
 img{
     width: 40px;
@@ -25,6 +26,7 @@ nav ul li{
 .img{
     justify-content: space-between;
     display: flex;
+    align-items: center;
 
 }
 nav li{
