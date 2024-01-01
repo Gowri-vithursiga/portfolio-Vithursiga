@@ -23,18 +23,18 @@ nav ul li{
     
 
 }
-.img{
-    justify-content: space-between;
+.img2{
+    justify-content: center;
     display: flex;
     align-items: center;
 
 }
 nav li{
-    color: white;
+    color: rgb(255, 205, 4);
 }
 
 .but{
-    background-color: orangered;
+    background-color: orangered; 
 
 
 }   
@@ -46,7 +46,7 @@ nav li{
     text-align:right ;
 }
 footer{
-    background-color:gray;
+    background-color:gray
 }
 .footerContainer{
     width: 100%;

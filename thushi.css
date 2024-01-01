@@ -20,10 +20,10 @@ nav ul li{
     
 
 }
-.img{
-    justify-content: space-between;
+.img2{
     display: flex;
-
+    justify-content: center;
+    align-items: center;
 }
 nav li:active{
     color: white;
