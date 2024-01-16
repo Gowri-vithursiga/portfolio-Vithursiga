@@ -11,9 +11,9 @@ nav ul li{
      
 
 }
-.img{
-    /* justify-content: space-between;
-    display: flex; */
+img{
+    justify-content: space-between;
+    display: flex;
     width: 40px;
 
 
@@ -38,6 +38,9 @@ img2{
     list-style: none;
     margin: 10px 20px;
     text-align:center ;
+}
+.img3{
+  
 }
 footer{
     background-color:gray;

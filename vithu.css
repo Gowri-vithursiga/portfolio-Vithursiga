@@ -38,7 +38,10 @@ nav li{
 
 
 }   
-
+/* @media(width < 750px)
+    nav .ul{
+    display: block;    
+} */
 .ul li a{
     display: inline-block;
     list-style: none;
